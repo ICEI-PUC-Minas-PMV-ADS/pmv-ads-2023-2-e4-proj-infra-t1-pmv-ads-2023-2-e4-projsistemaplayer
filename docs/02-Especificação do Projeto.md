@@ -99,6 +99,48 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 | RNF-002      | Resposta de requisição em no máximo 2s             | UC-007                  |
 
 
+# Planejamento do Projeto
+
+## Cronograma
+
+| Atividade                             | Início      | Fim         | Duração |
+|---------------------------------------|-------------|-------------|---------|
+| Planejamento Inicial                  | 01/10/2023  | 07/10/2023  | 7 dias  |
+| Design da Interface do Usuário       | 08/10/2023  | 21/10/2023  | 14 dias |
+| Desenvolvimento da Base de Dados      | 22/10/2023  | 05/11/2023  | 15 dias |
+| Implementação das Funcionalidades    | 06/11/2023  | 20/11/2023  | 15 dias |
+| Testes Iniciais                       | 21/11/2023  | 30/11/2023  | 10 dias |
+| Feedback e Iteração                   | 01/12/2023  | 10/12/2023  | 10 dias |
+| Testes Finais e Ajustes               | 11/12/2023  | 20/12/2023  | 10 dias |
+| Lançamento                            | 21/12/2023  | 21/12/2023  | 1 dia   |
+
+## Custos
+
+| Item                                  | Custo Estimado  |
+|---------------------------------------|-----------------|
+| Salários da equipe de desenvolvimento | R$24,00/mês        |
+| Hospedagem e infraestrutura           | R$100/mês       |
+| Licenças de Cursos                    | R$5.000          |
+| Marketing e Publicidade               | R$15.000/mês          |
+| Outros (imprevistos, taxas, etc.)     | R$800           |
+| **Total Estimado**                    | **R$20.924**     |
+
+## Pessoal
+
+| Cargo                        | Quantidade | Descrição                                           |
+|------------------------------|------------|-----------------------------------------------------|
+| Gerente de Projeto           | 2         | Responsável pela coordenação e supervisão do projeto |
+| Desenvolvedor Front-end      | 2          | Criação e design da interface do usuário            |
+| Desenvolvedor Back-end       | 2          | Implementação da lógica e gestão da base de dados    |
+| Designer UX/UI               | 2          | Projetar a experiência do usuário                    |
+| Testador                     | 2          | Responsável pelos testes de qualidade do software    |
+
+---
+
+Reforço que esses valores são fictícios e simplificados para fins ilustrativos. O planejamento real do seu projeto deve ser baseado em informações detalhadas, pesquisas e estimativas mais precisas.
+
+
+
 # Gerenciamento de Projeto
 
 De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
