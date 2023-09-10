@@ -112,7 +112,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 | Testes Iniciais                       | 21/11/2023  | 30/11/2023  | 10 dias |
 | Feedback e Iteração                   | 01/12/2023  | 10/12/2023  | 10 dias |
 | Testes Finais e Ajustes               | 11/12/2023  | 20/12/2023  | 10 dias |
-| Lançamento                            | 21/12/2023  | 21/12/2023  | 1 dia   |
 
 ## Custos
 
