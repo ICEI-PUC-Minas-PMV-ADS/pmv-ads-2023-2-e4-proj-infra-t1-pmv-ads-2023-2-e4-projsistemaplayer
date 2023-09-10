@@ -1,23 +1,21 @@
-# TÍTULO DO PROJETO
+# PROJETO PLAYER
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO EIXO 4`
 
-`SEMESTRE`
+`QUARTO SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Khaio Henrique De Oliveira Camargos
+* Arthur Emanoel Coelho De Paulo
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Instruções de utilização
 
