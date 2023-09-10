@@ -8,7 +8,7 @@ Desenvolver um software de streaming educacional que combina a facilidade de uso
 
 ## Personas
 
-###1.João
+### 1.João
 
 Idade: 20 anos.
 
@@ -16,7 +16,7 @@ Descrição: Estudante universitário que busca complementar sua formação.
 
 Necessidade: Conteúdo educacional diversificado e de qualidade.
 
-###2.Maria
+### 2.Maria
 
 Idade: 35 anos.
 
@@ -24,7 +24,7 @@ Descrição: Professora que deseja expandir seu alcance online.
 
 Necessidade: Plataforma simples para hospedar seus cursos.
 
-###3.Instituto Mix - Mateus Leme
+### 3.Instituto Mix - Mateus Leme
 
 Descrição: Instituição tradicional buscando inovar no ambiente digital.
 
@@ -32,12 +32,12 @@ Necessidade: Ferramenta que facilite a transição do ensino presencial para o d
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+|EU COMO... `PERSONA`               | QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                        |
+|----------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------|
+|João, estudante universitário     | Acessar conteúdo educacional diversificado                          | Complementar minha formação com qualidade                    |
+|Maria, professora                 | Ter uma plataforma simples para hospedar meus cursos                | Expandir meu alcance e ensinar online de forma eficiente     |
+|Instituto Mix - Mateus Leme       | Utilizar uma ferramenta que facilite a transição para ensino digital| Inovar e adaptar-se às demandas atuais de ensino             |
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
