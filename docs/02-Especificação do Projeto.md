@@ -9,17 +9,25 @@ Desenvolver um software de streaming educacional que combina a facilidade de uso
 ## Personas
 
 1.João
+
 Idade: 20 anos.
+
 Descrição: Estudante universitário que busca complementar sua formação.
+
 Necessidade: Conteúdo educacional diversificado e de qualidade.
 
 2.Maria
+
 Idade: 35 anos.
+
 Descrição: Professora que deseja expandir seu alcance online.
+
 Necessidade: Plataforma simples para hospedar seus cursos.
 
 3.Instituto Mix - Mateus Leme
+
 Descrição: Instituição tradicional buscando inovar no ambiente digital.
+
 Necessidade: Ferramenta que facilite a transição do ensino presencial para o digital.
 
 ## Histórias de Usuários
