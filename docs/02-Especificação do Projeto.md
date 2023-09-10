@@ -86,18 +86,17 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
 
-# Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+# Matriz de Rastreabilidade dos Requisitos
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+| ID Requisito | Descrição                                          | Casos de Uso Associados |
+|--------------|----------------------------------------------------|-------------------------|
+| RF-001       | Permitir que o usuário crie sua conta              | UC-001                  |
+| RF-002       | Permitir que o usuário faça login                  | UC-002                  |
+| RF-003       | Permitir que o usuário encontre o conteúdo desejado| UC-003, UC-004          |
+| RF-004       | Garantir que o usuário logue em apenas uma sessão | UC-005                  |
+| RNF-001      | O sistema deve ser responsivo                      | UC-006                  |
+| RNF-002      | Resposta de requisição em no máximo 2s             | UC-007                  |
 
 
 # Gerenciamento de Projeto
