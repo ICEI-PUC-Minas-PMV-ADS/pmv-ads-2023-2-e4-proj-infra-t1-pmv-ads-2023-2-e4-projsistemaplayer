@@ -103,6 +103,10 @@ As interfaces web e móvel se comunicam com o backend predominantemente através
 
 - Criptografia básica usando TLS/SSL para proteger a transmissão de dados.
 - Autenticação de usuários para acesso ao sistema e conteúdo.
+  
+## Representação Gráfica da Arquitetura Do Projeto
+![Representação](img/arquitetura.png)
+
 
 
 ## Diagrama de Casos de Uso
