@@ -32,7 +32,7 @@ Necessidade: Ferramenta que facilite a transição do ensino presencial para o d
 
 ## Histórias de Usuários
 
-|EU COMO... `PERSONA`               | QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                        |
+|EU COMO... `PERSONA`               | QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO`                                        |
 |----------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------|
 |João, estudante universitário     | Acessar conteúdo educacional diversificado                          | Complementar minha formação com qualidade                    |
 |Maria, professora                 | Ter uma plataforma simples para hospedar meus cursos                | Expandir meu alcance e ensinar online de forma eficiente     |
