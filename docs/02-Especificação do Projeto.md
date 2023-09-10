@@ -38,6 +38,36 @@ Necessidade: Ferramenta que facilite a transição do ensino presencial para o d
 |Maria, professora                 | Ter uma plataforma simples para hospedar meus cursos                | Expandir meu alcance e ensinar online de forma eficiente     |
 |Instituto Mix - Mateus Leme       | Utilizar uma ferramenta que facilite a transição para ensino digital| Inovar e adaptar-se às demandas atuais de ensino             |
 
+## Requisitos
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito                                                | Prioridade |
+|------|-----------------------------------------------------------------------|------------|
+|RF-001| Permitir que o usuário crie sua conta                                 | ALTA      |
+|RF-002| Permitir que o usuário faça login                                      | ALTA      |
+|RF-003| Oferecer um sistema de busca para o usuário encontrar conteúdo desejado | ALTA      |
+|RF-004| Permitir que o usuário acesse apenas uma sessão por vez                | ALTA      |
+|RF-005| Permitir que o usuário recupere sua senha                              | MÉDIA     |
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito                                               |Prioridade |
+|-------|----------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis      | ALTA      |
+|RNF-002| O login deve ser seguro e encriptado                                 | ALTA      |
+|RNF-003| O sistema de busca deve retornar resultados em no máximo 2 segundos  | ALTA      |
+|RNF-004| O sistema deve detectar e encerrar sessões simultâneas do mesmo usuário | MÉDIA |
+|RNF-005| Todos os dados de usuário devem ser armazenados de forma segura      | ALTA      |
+
+## Restrições
+
+|ID| Restrição                                               |
+|--|---------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre   |
+|02| O sistema não deve armazenar senhas em texto puro       |
+
+
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
