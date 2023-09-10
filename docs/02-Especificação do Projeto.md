@@ -68,10 +68,42 @@ Necessidade: Ferramenta que facilite a transição do ensino presencial para o d
 |02| O sistema não deve armazenar senhas em texto puro       |
 
 
-# documentação da Arquitetura Distribuída do projeto
-# documentação da Arquitetura Distribuída do projeto
-# documentação da Arquitetura Distribuída do projeto
-# documentação da Arquitetura Distribuída do projeto
+# Arquitetura Distribuída Simplificada da Plataforma Educacional
+
+## Visão Geral
+
+A plataforma adota uma estrutura básica distribuída, focando na simplicidade e facilidade de manutenção.
+
+## Componentes Principais
+
+### 1. Frontend 
+#### 1.1 Interface Web
+- Interface para navegador construída em PHP.
+- Conexão com o backend através de APIs simples.
+
+#### 1.2 Interface Móvel
+- Aplicativo para dispositivos móveis desenvolvido em React Native.
+- Conexão direta com o backend via APIs simples.
+
+### 2. Backend
+- Desenvolvido em PHP.
+- Processa as requisições da interface e gerencia as operações do banco de dados.
+
+### 3. Banco de Dados MySQL
+- Armazena informações de usuários e conteúdo da plataforma.
+
+### 4. Servidor de Vídeo Aulas
+- Dedicado para armazenar e servir vídeo aulas.
+
+## Comunicação
+
+As interfaces web e móvel se comunicam com o backend predominantemente através de APIs RESTful simples.
+
+## Segurança
+
+- Criptografia básica usando TLS/SSL para proteger a transmissão de dados.
+- Autenticação de usuários para acesso ao sistema e conteúdo.
+
 
 ## Diagrama de Casos de Uso
 
