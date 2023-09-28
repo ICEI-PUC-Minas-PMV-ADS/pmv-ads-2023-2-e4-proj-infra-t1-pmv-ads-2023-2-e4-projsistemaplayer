@@ -1,32 +1,34 @@
 # Introdução
 
-A constante evolução do cenário tecnológico e a crescente demanda por aprendizado online nos últimos anos têm moldado a maneira como as pessoas consomem conteúdo educacional. Plataformas de streaming, como a Netflix, provaram ser excelentes em fornecer entretenimento sob demanda. Da mesma forma, acredita-se que uma abordagem semelhante pode ser aplicada à aprendizagem. O projeto proposto busca unir a comodidade e eficiência das plataformas de streaming à necessidade atual de aprendizado flexível e adaptável, através de uma assinatura mensal.
+A crescente popularidade das estratégias de marketing multinível e o potencial de indicações têm reformulado a maneira como empresas e empreendedores se conectam e expandem sua base de clientes. Plataformas de referência, como programas de afiliados, demonstraram ser eficientes em promover marcas e produtos. Da mesma forma, acredita-se que uma abordagem digitalizada para indicações em multinível possa otimizar essa estratégia. O projeto proposto busca unir o poder das indicações à tecnologia digital através de uma plataforma fácil de usar.
 
 ## Problema
 
-Apesar da disponibilidade de múltiplos cursos online, muitos estudantes e profissionais se veem sobrecarregados pela variedade de plataformas e formatos. A falta de um espaço centralizado que proporciona uma experiência de usuário semelhante à de plataformas de streaming populares, cria uma lacuna no mercado educacional digital.
+Apesar do reconhecimento da eficácia das estratégias de marketing multinível, muitos empreendedores e empresas enfrentam desafios na gestão e rastreamento de indicações. A ausência de um sistema centralizado que facilite essa gestão e proporciona uma experiência de usuário simplificada cria uma lacuna no mercado de marketing multinível.
 
 ## Objetivos
 
 **Objetivo Geral**:
-Desenvolver um software que permita aos usuários acessar e transmitir conteúdo educacional de maneira intuitiva e eficiente, proporcionando uma experiência semelhante às populares plataformas de streaming, através de uma assinatura mensal.
+Objetivo Geral: Desenvolver um software que permita aos usuários gerenciar, rastrear e beneficiar-se de indicações em multinível de forma intuitiva e eficaz.
 
 **Objetivos Específicos**:
-1. Criar uma interface amigável e intuitiva que permita o fácil acesso ao conteúdo.
-2. Implementar um sistema de categorização para facilitar a organização e busca do conteúdo educacional.
+1. Criar uma interface amigável que facilite o gerenciamento e acompanhamento de indicações.
+2. Implementar um sistema de categorização e rastreamento para organizar e monitorar as indicações em diferentes níveis.
 
 ## Justificativa
 
-Com a ascensão do ensino a distância e a necessidade de aprendizado contínuo no mercado de trabalho atual, um número crescente de pessoas busca plataformas de aprendizado online. O projeto visa atender a essa demanda e oferecer uma solução inovadora que combina a eficiência das plataformas de streaming com a flexibilidade do ensino online. Esta proposta não só beneficiará os estudantes, mas também instrutores e instituições educacionais que procuram expandir seu alcance no ambiente digital.
+Com a prevalência das estratégias de marketing digital e a eficácia comprovada das indicações, um sistema que centralize e simplifique o marketing multinível é crucial. O projeto visa fornecer uma solução que combina tecnologia com estratégias de marketing tradicionais. Esta proposta beneficiará não só empreendedores individuais, mas também empresas e marcas que procuram otimizar suas estratégias de indicação.
 
 ## Público-Alvo
 
 O software tem como público-alvo principal:
 
-- **Estudantes**: De diferentes níveis educacionais que buscam uma plataforma adaptável para acessar conteúdo educacional através de uma assinatura mensal.
+- **Empreendedores**:  Indivíduos que buscam expandir seus negócios através de estratégias de indicação.
   
-- **Instrutores e Professores**: Profissionais que desejam compartilhar seus cursos e materiais de forma organizada e atingir um público mais amplo.
+- **Instrutores e Professores**:  Entidades que desejam otimizar e rastrear suas indicações em multinível para melhorar o alcance e a conversão.
+
+- **Afiliados**: Indivíduos que desejam promover produtos ou serviços e se beneficiar das indicações que geram.
 
 - **Instituições Educacionais**: Escolas, universidades e centros de treinamento que buscam expandir seu alcance no ambiente digital.
 
-Este público tem familiaridade com tecnologias digitais, valoriza a flexibilidade e busca maneiras eficientes de consumir conteúdo educacional. Ao entender esse público, podemos criar uma plataforma que atenda às suas necessidades específicas e forneça uma experiência de usuário excepcional.
+Este público valoriza soluções digitais eficientes, busca maneiras otimizadas de expandir seu alcance e entende o poder das indicações. Ao compreender esse público, podemos desenvolver uma plataforma que atenda às suas necessidades e forneça uma experiência de usuário superior.
