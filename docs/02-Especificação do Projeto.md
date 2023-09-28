@@ -1,10 +1,10 @@
 # Especificações do Projeto
 
 ## Problema
-Usuários, sejam eles estudantes, instrutores ou instituições educacionais, enfrentam dificuldades em encontrar um espaço centralizado que ofereça uma experiência de aprendizado online semelhante às plataformas de streaming populares.
+Usuários, sejam eles empresas, empreendedores ou afiliados, que enfrentam dificuldades em encontrar uma forma de vender seu serviço/produto utilizando-se de marketing de indicação
 
 ## Ideias de solução
-Desenvolver um software de streaming educacional que combina a facilidade de uso das plataformas de entretenimento com a flexibilidade do aprendizado online, tudo por meio de uma assinatura mensal.
+Desenvolver um software de Multínivel que combina a facilidade de uso e que seja altamente intuitivo
 
 ## Personas
 
@@ -12,60 +12,59 @@ Desenvolver um software de streaming educacional que combina a facilidade de uso
 
 Idade: 20 anos.
 
-Descrição: Estudante universitário que busca complementar sua formação.
+Descrição: Empreendedor que quer aumentar as venda de projetos de energia solar
 
-Necessidade: Conteúdo educacional diversificado e de qualidade.
-
-### 2.Maria
-
-Idade: 35 anos.
-
-Descrição: Professora que deseja expandir seu alcance online.
-
-Necessidade: Plataforma simples para hospedar seus cursos.
+Necessidade: ferramenta que facilite a gestão de indicações do seu negócio
 
 ### 3.Instituto Mix - Mateus Leme
 
 Descrição: Instituição tradicional buscando inovar no ambiente digital.
 
-Necessidade: Ferramenta que facilite a transição do ensino presencial para o digital.
+Necessidade: Ferramenta que facilite alunos indicarem outros alunos e serem remunerados por isso.
 
 ## Histórias de Usuários
 
-|EU COMO... `PERSONA`               | QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO`                                        |
-|----------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------|
-|João, estudante universitário     | Acessar conteúdo educacional diversificado                          | Complementar minha formação com qualidade                    |
-|Maria, professora                 | Ter uma plataforma simples para hospedar meus cursos                | Expandir meu alcance e ensinar online de forma eficiente     |
-|Instituto Mix - Mateus Leme       | Utilizar uma ferramenta que facilite a transição para ensino digital| Inovar e adaptar-se às demandas atuais de ensino             |
+| EU COMO...                          | QUERO/PRECISO...                                              | PARA...                                                      |
+|-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------|
+| João, empreendedor jovem            | Gerenciar e rastrear as indicações feitas para meu negócio   | Otimizar meu marketing e aumentar as vendas de projetos de energia solar |
+| Instituto Mix - Mateus Leme         | Implementar um sistema de recompensas para indicações de novos alunos | Incentivar os alunos atuais a trazerem mais inscrições e ampliar a base de estudantes |
+| Instituto Mix - Mateus Leme         | Monitorar o sucesso e a eficácia das indicações              | Adaptar-se às tendências e entender quais estratégias são mais eficientes para a instituição |
+
 
 ## Requisitos
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito                                                | Prioridade |
-|------|-----------------------------------------------------------------------|------------|
-|RF-001| Permitir que o usuário crie sua conta                                 | ALTA      |
-|RF-002| Permitir que o usuário faça login                                      | ALTA      |
-|RF-003| Oferecer um sistema de busca para o usuário encontrar conteúdo desejado | ALTA      |
-|RF-004| Permitir que o usuário acesse apenas uma sessão por vez                | ALTA      |
-|RF-005| Permitir que o usuário recupere sua senha                              | MÉDIA     |
+|ID    | Descrição do Requisito                                                                   | Prioridade |
+|------|------------------------------------------------------------------------------------------|------------|
+|RF-001| Permitir que o usuário crie sua conta                                                    | ALTA      |
+|RF-002| Permitir que o usuário faça login                                                         | ALTA      |
+|RF-003| Permitir que o usuário indique outras pessoas através de um link ou código único         | ALTA      |
+|RF-004| Oferecer um sistema de gestão de indicações, mostrando quem indicou e quem foi indicado  | ALTA      |
+|RF-005| Permitir a visualização de recompensas ou bonificações por indicações bem-sucedidas      | ALTA      |
+|RF-006| Permitir que o usuário recupere sua senha                                                 | MÉDIA     |
+|RF-007| Oferecer um painel com estatísticas de indicações (total, convertidas, pendentes)        | MÉDIA     |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito                                               |Prioridade |
-|-------|----------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis      | ALTA      |
-|RNF-002| O login deve ser seguro e encriptado                                 | ALTA      |
-|RNF-003| O sistema de busca deve retornar resultados em no máximo 2 segundos  | ALTA      |
-|RNF-004| O sistema deve detectar e encerrar sessões simultâneas do mesmo usuário | MÉDIA |
-|RNF-005| Todos os dados de usuário devem ser armazenados de forma segura      | ALTA      |
+|ID     | Descrição do Requisito                                                   |Prioridade |
+|-------|--------------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis          | ALTA      |
+|RNF-002| O login deve ser seguro e encriptado                                     | ALTA      |
+|RNF-003| A geração do link/código de indicação deve ser instantânea                | ALTA      |
+|RNF-004| O sistema deve detectar e encerrar sessões simultâneas do mesmo usuário | MÉDIA     |
+|RNF-005| Todos os dados de usuário devem ser armazenados de forma segura          | ALTA      |
+|RNF-006| O sistema deve ter backups regulares e recuperação em caso de falhas     | ALTA      |
+|RNF-007| Notificações por e-mail ou SMS quando uma indicação é convertida          | MÉDIA     |
 
 ## Restrições
 
-|ID| Restrição                                               |
-|--|---------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre   |
-|02| O sistema não deve armazenar senhas em texto puro       |
+|ID| Restrição                                                                 |
+|--|---------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre                     |
+|02| O sistema não deve armazenar senhas em texto puro                         |
+|03| O sistema deve ser capaz de suportar um mínimo de 10.000 usuários ativos  |
+|04| O código da indicação deve expirar em 30 dias após a geração              |
 
 
 # Arquitetura Distribuída Simplificada da Plataforma Educacional
@@ -92,9 +91,6 @@ A plataforma adota uma estrutura básica distribuída, focando na simplicidade e
 ### 3. Banco de Dados MySQL
 - Armazena informações de usuários e conteúdo da plataforma.
 
-### 4. Servidor de Vídeo Aulas
-- Dedicado para armazenar e servir vídeo aulas.
-
 ## Comunicação
 
 As interfaces web e móvel se comunicam com o backend predominantemente através de APIs RESTful simples.
@@ -115,16 +111,26 @@ As interfaces web e móvel se comunicam com o backend predominantemente através
 
 
 
-# Matriz de Rastreabilidade dos Requisitos
+## Matriz de Rastreabilidade
 
-| ID Requisito | Descrição                                          | Casos de Uso Associados |
-|--------------|----------------------------------------------------|-------------------------|
-| RF-001       | Permitir que o usuário crie sua conta              | UC-001                  |
-| RF-002       | Permitir que o usuário faça login                  | UC-002                  |
-| RF-003       | Permitir que o usuário encontre o conteúdo desejado| UC-003, UC-004          |
-| RF-004       | Garantir que o usuário logue em apenas uma sessão | UC-005                  |
-| RNF-001      | O sistema deve ser responsivo                      | UC-006                  |
-| RNF-002      | Resposta de requisição em no máximo 2s             | UC-007                  |
+| ID Requisito | Fonte do Requisito | Componentes Afetados | Testes Associados | Observações |
+|--------------|--------------------|----------------------|-------------------|-------------|
+|RF-001        | História de Usuário: João | Módulo de Registro | Teste de Criação de Conta | - |
+|RF-002        | História de Usuário: João | Módulo de Login | Teste de Login | Verificar integração com criptografia |
+|RF-003        | História de Usuário: João, Instituto Mix - Mateus Leme | Módulo de Indicações | Teste de Geração de Link/Código | - |
+|RF-004        | História de Usuário: João, Instituto Mix - Mateus Leme | Módulo de Indicações | Teste de Listagem de Indicações | - |
+|RF-005        | História de Usuário: Instituto Mix - Mateus Leme | Módulo de Recompensas | Teste de Visualização de Recompensas | - |
+|RF-006        | - | Módulo de Login | Teste de Recuperação de Senha | - |
+|RF-007        | História de Usuário: João, Instituto Mix - Mateus Leme | Módulo de Dashboard | Teste de Exibição de Estatísticas | - |
+|RNF-001       | - | Módulo de UI/UX | Teste de Responsividade | Deve funcionar em dispositivos móveis e desktops |
+|RNF-002       | - | Módulo de Login | Teste de Segurança no Login | Verificar uso de HTTPS e encriptação |
+|RNF-003       | História de Usuário: João | Módulo de Indicações | Teste de Performance | Tempo de resposta esperado: <2s |
+|RNF-004       | - | Módulo de Sessões | Teste de Sessão Simultânea | Detectar e encerrar sessões duplicadas |
+|RNF-005       | - | Módulo de Banco de Dados | Teste de Segurança do Banco de Dados | Garantir encriptação e backups |
+|RNF-006       | - | Módulo de Backup | Teste de Recuperação de Backup | Verificar integridade após restauração |
+|RNF-007       | História de Usuário: Instituto Mix - Mateus Leme | Módulo de Notificações | Teste de Envio de Notificação | Verificar entrega de e-mail/SMS |
+
+
 
 
 # Planejamento do Projeto
