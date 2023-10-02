@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Khaio Henrique De Oliveira Camargos
-* Arthur Emanoel Coelho De Paulo
+* Arthur Emanoel Coelho De Paula
 * Giovanna Dantas Almeida da Silva
 * O outro Colega não entrou em contato com a gente e não sei o nome do mesmo, deixei o meu whatsapp para contato na última reunião, porém o mesmo não entrou em contato por nenhum canal
 
