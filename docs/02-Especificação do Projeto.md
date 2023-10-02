@@ -151,12 +151,8 @@ As interfaces web e móvel se comunicam com o backend predominantemente através
 
 | Item                                  | Custo Estimado  |
 |---------------------------------------|-----------------|
-| Salários da equipe de desenvolvimento | R$24,00/mês        |
 | Hospedagem e infraestrutura           | R$100/mês       |
-| Licenças de Cursos                    | R$5.000          |
-| Marketing e Publicidade               | R$15.000/mês          |
-| Outros (imprevistos, taxas, etc.)     | R$800           |
-| **Total Estimado**                    | **R$20.924**     |
+
 
 ## Pessoal
 
