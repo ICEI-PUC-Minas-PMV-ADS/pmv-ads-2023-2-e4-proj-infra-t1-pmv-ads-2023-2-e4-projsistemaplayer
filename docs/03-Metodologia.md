@@ -58,5 +58,3 @@ As ferramentas empregadas no projeto são:
 
 Essas ferramentas foram escolhidas visando a eficiência, integração e facilidade de uso para a equipe.
 
-
-teste
