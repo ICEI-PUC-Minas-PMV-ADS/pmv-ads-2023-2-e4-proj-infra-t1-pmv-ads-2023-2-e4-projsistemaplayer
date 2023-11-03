@@ -8,19 +8,58 @@ Desenvolver um software de Multínivel que combina a facilidade de uso e que sej
 
 ## Personas
 
-### 1.João
+### 1.João de Olavo Mesquita
 
+![Alt text](img/p1.jpg)
 Idade: 20 anos.
 
-Descrição: Empreendedor que quer aumentar as venda de projetos de energia solar
+Descrição: Empreendedor que quer aumentar as venda de projetos de energia solar.
 
-Necessidade: ferramenta que facilite a gestão de indicações do seu negócio
+Necessidade: Ferramenta que facilite a gestão de indicações do seu negócio.
 
-### 3.Instituto Mix - Mateus Leme
+Frustação: Dificuldade de indicar seus produtos através do marketing tradicional.
+
+### 2. Livia Andrade Lemos
+
+![Alt text](img/p2.jpg)
+
+Idade: 31 Anos.
+
+Descrição: Nova empreendedora no ramo de cosméticos.
+
+Necessidade: Expandir sua rede de clientes na região.
+
+Frustação: Dificuldade em adquirir novos clientes por ser nova no mercado.
+
+### 3. Roberto de Souza Nascimento
+
+![Alt text](img/p4.jpg)
+
+Idade: 36 Anos.
+
+Descrição: Estudante de Administração.
+
+Necessidade: Ganhar uma renda extra através de um aplicativo mobile.
+
+Frustação: Um aplicativo seguro e confiável que forneça remuneração.
+
+<!-- ### 3.Instituto Mix - Mateus Leme
+
+Descrição: Instituição tradicional buscando inovar no ambiente digital.
+
+Necessidade: Ferramenta que facilite alunos indicarem outros alunos e serem remunerados por isso.-->
+
+### 4.Instituto Mix - Mateus Leme
+
+![Alt text](img/p3.jpg)
+
+Idade: 45 anos desde sua fundação.
 
 Descrição: Instituição tradicional buscando inovar no ambiente digital.
 
 Necessidade: Ferramenta que facilite alunos indicarem outros alunos e serem remunerados por isso.
+
+Frustação: Dificuldade para que os alunos recomendem ou indiquem a intituição para possíveis novos alunos.
 
 ## Histórias de Usuários
 
