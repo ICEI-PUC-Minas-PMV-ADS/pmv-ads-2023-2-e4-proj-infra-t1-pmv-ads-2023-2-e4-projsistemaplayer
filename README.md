@@ -76,7 +76,7 @@ A API fornece os seguintes endpoints:
      
    - *Resposta*: Mensagem de sucesso ou erro em formato JSON.
 
-####URL 
+###URL 
 
 https://cortafruta.site/indiquee/api.php
 
