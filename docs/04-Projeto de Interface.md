@@ -8,8 +8,10 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## Fluxo do usuário
-
 O diagrama apresentado na Figura mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada no seguinte Wireframe interativo: https://www.figma.com/proto/x1GwTMHZMsotgWQzjySr5e/indiquee?type=design&node-id=1-2&t=iI0zHBjogBBWm0ul-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t1-pmv-ads-2023-2-e4-projsistemaplayer/assets/104279068/2daa36e7-33fe-4d34-965f-f06a563e8173)
+
 
 ## Diagrama de Fluxo
 
