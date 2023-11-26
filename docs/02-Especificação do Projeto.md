@@ -11,6 +11,7 @@ Desenvolver um software de Multínivel que combina a facilidade de uso e que sej
 ### 1.João de Olavo Mesquita
 
 ![image](img/p1.jpg)
+
 Idade: 20 anos.
 
 Descrição: Empreendedor que quer aumentar as venda de projetos de energia solar.
