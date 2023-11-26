@@ -10,7 +10,7 @@ Desenvolver um software de Multínivel que combina a facilidade de uso e que sej
 
 ### 1.João de Olavo Mesquita
 
-![Alt text](img/p1.jpg)
+![image](img/p1.jpg)
 Idade: 20 anos.
 
 Descrição: Empreendedor que quer aumentar as venda de projetos de energia solar.
@@ -21,7 +21,7 @@ Frustação: Dificuldade de indicar seus produtos através do marketing tradicio
 
 ### 2. Livia Andrade Lemos
 
-![Alt text](img/p2.jpg)
+![image](img/p2.jpg)
 
 Idade: 31 Anos.
 
@@ -33,7 +33,7 @@ Frustação: Dificuldade em adquirir novos clientes por ser nova no mercado.
 
 ### 3. Roberto de Souza Nascimento
 
-![Alt text](img/p4.jpg)
+![image](img/p4.jpg)
 
 Idade: 36 Anos.
 
@@ -51,7 +51,7 @@ Necessidade: Ferramenta que facilite alunos indicarem outros alunos e serem remu
 
 ### 4.Instituto Mix - Mateus Leme
 
-![Alt text](img/p3.jpg)
+![image](img/p3.jpg)
 
 Idade: 45 anos desde sua fundação.
 
