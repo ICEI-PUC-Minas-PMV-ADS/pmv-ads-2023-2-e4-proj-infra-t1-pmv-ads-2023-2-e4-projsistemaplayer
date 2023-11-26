@@ -36,7 +36,7 @@ Antes de começar a usar a API, certifique-se de:
 
 - Ter um servidor Apache rodando e um banco de dados MySQL configurado.
 - O arquivo `conexao.php` deve estar no mesmo diretório e configurado corretamente para conectar-se ao seu banco de dados.
-- O banco de dados deve ter uma tabela `usuarios` com colunas `id`, `nome` e `email`.
+- O banco de dados deve ter uma tabela `usuarios` com colunas `id`, `demo_balance` `password` `revshare` e `email`.
 
 ### Endpoints
 
