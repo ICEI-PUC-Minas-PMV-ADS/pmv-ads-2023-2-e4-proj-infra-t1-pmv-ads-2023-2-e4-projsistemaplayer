@@ -52,11 +52,13 @@ A API fornece os seguintes endpoints:
 
    - *Método*: POST
    - *URL*: `/api.php`
-   - *Corpo da Requisição*: JSON com nome e email do usuário. Exemplo:
+   - *Corpo da Requisição*: JSON com email, password e demo_balance do usuário. Exemplo:
      json
      {
-       "nome": "João",
        "email": "joao@email.com"
+       "password": "jaodograu123"
+       "demo_balance": "100000"
+     
      }
      
    - *Resposta*: Mensagem de sucesso ou erro em formato JSON.
