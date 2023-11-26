@@ -55,8 +55,8 @@ A API fornece os seguintes endpoints:
    - *Corpo da Requisição*: JSON com email, password e demo_balance do usuário. Exemplo:
      json
      {
-       "email": "joao@email.com"
-       "password": "jaodograu123"
+       "email": "joao@email.com",
+       "password": "jaodograu123",
        "demo_balance": "100000"
      
      }
@@ -67,27 +67,15 @@ A API fornece os seguintes endpoints:
 
    - *Método*: PUT
    - *URL*: `/api.php`
-   - *Corpo da Requisição*: JSON com id, nome e email do usuário a ser atualizado. Exemplo:
+   - *Corpo da Requisição*: JSON com id e revshare ou com id e demo_balance do usuário a ser alterado. Exemplo:
      json
      {
        "id": "3",
-       "nome": "João Atualizado",
-       "email": "joao_atualizado@email.com"
+       "demo_balance": "520"
      }
      
    - *Resposta*: Mensagem de sucesso ou erro em formato JSON.
 
-4. *Deletar um usuário*
-
-   - *Método*: DELETE
-   - *URL*: `/api.php`
-   - *Corpo da Requisição*: JSON contendo o id do usuário a ser deletado. Exemplo:
-     json
-     {
-       "id": "3"
-     }
-     
-   - *Resposta*: Mensagem de sucesso ou erro em formato JSON.
 
 ### Ferramentas Recomendadas
 
