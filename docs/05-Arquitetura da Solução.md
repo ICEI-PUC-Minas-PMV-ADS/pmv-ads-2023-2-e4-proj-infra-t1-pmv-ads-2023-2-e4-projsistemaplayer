@@ -18,13 +18,13 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 Ferramenta para geração deste artefato: Lucid.app
 
-![image](docs/img/Modelo_ER.pdf)
+![image](img/Modelo_ER.pdf)
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-![image](docs/img/Esquema_Relacional.pdf)
+![image](img/Esquema_Relacional.pdf)
 
 ## Modelo Físico
 
