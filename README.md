@@ -1,4 +1,4 @@
-![image](/logo-indiquee.png)
+![image](/docs/img/logo-indiquee.png)
 
 
 # PROJETO MULTINÍVEL DE INDICAÇÕES
