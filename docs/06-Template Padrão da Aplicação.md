@@ -6,14 +6,14 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 ## Home Page
 
-![image](docs/img/Template_Padrao.png)
+![image](img/Template_Padrao.png)
 
-![image](docs/img/Gerador.png)
+![image](img/Gerador.png)
 
 
 ## API
 
-![Alt text](docs/img/05-templatepadrao.png)
+![image](img/05-templatepadrao.png)
 
 
 > **Links Úteis**:
