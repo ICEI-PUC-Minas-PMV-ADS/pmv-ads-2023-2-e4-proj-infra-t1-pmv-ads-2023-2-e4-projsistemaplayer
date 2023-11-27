@@ -8,6 +8,9 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 ![image](img/Template_Padrao.png)
 
+![image](img/Gerador.png)
+
+
 ## API
 
 ![Alt text](img/05-templatepadrao.png)
